@@ -41,9 +41,9 @@ The objective of this project is to estimate battery SOC accurately using an EKF
 ## Battery Parameters
 | Parameter            |  Value   |
 |----------------------|----------|
-| Capacity 	       |  1 Ah    |
+| Capacity 	           |  1 Ah    |
 | Internal Resistance  | 0.015 Ω  |
-| Time Step	       |  1 sec   |
+| Time Step	           |  1 sec   |
 | Simulation Time      | 1000 sec |
 
 ---
