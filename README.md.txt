@@ -99,7 +99,6 @@ If exceeded:
 
 ## Output Graphs
 The script generates:
-
 1. True SOC vs Estimated SOC
 2. Input Current Profile
 3. Measured Voltage vs Predicted Voltage
@@ -111,7 +110,6 @@ The script generates:
 ## Performance Metric
 ### RMSE (Root Mean Square Error)
 Used to evaluate SOC estimation accuracy.
-
 Lower RMSE indicates better estimation performance.
 
 ---
@@ -131,3 +129,10 @@ BMS_EKF_Project/
 │   ├── error_plot.png
 
 
+##Author
+Ayush Kumar
+Electrical Engineering Student
+BAttery Management System using Extended Kalman Filter (EKF)
+
+##License
+This project is open-source and intended for educational and learning purposes.
